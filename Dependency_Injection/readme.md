@@ -5,7 +5,7 @@
    - Explicit Dependency 
    - Implicit Dependency 
 ### 2.Dependecy injection ?
-- Depency injection have group pattern injection : 
+- Depency injection return explicit dependency have group pattern injection : 
   - Contructor Injection
   - Property Injection
   - Method Injection
